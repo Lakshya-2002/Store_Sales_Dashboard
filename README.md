@@ -11,11 +11,14 @@ This dashboard visualizes complete store sales performance using Power BI. It en
 • Identify revenue drivers and improvement opportunities across segments, regions, product categories, and shipping modes — helping decision-makers act faster and more accurately.
 
 
-📌 3. Tech Stack--
-• 📊 Power BI Desktop – Main data visualization platform used for report creation.
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-• 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
+📌 3. Tech Stack
+| Tool / Technology  | Purpose                                        |
+| ------------------ | ---------------------------------------------- |
+| 📊 **Power BI**    | Data modeling, dashboard creation & publishing |
+| 📂 **Power Query** | Data cleaning & transformation                 |
+| 🧠 **DAX**         | KPI calculations and business logic            |
+| 📝 **Excel / CSV** | Raw data storage                               |
+
 
 
 📌 4. Data Source--
