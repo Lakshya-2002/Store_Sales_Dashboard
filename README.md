@@ -38,4 +38,4 @@ A light forecasting model is included to estimate early-2021 sales trends.
 This helps support inventory planning and preparation for seasonal demand.
 
 📌 7. Dashboard Looks Like--
-![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/Lakshya-2002/Store_Sales_Dashboard/blob/main/Store_Dashboard.png))
+![Dashboard Preview](https://github.com/Lakshya-2002/Store_Sales_Dashboard/blob/main/Store_Dashboard.png)
